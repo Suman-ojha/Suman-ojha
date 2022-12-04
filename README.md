@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Suman Ojha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<p>I'm pursuing Last Year of B.Tech degree in Computer Science and Engineering from MAKAUT, W.B. I'm a web and software developer and computer programmer with an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking on challenges and love being part of the solution.</p>
+
+<p>Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
+
+Technologies:-
+- HTML5, CSS3, 
+- ReactJS, NodeJS, ExpressJS, MongoDB, 
+- Programming in C, Python, C++, JavaScriptJava.
+
+Also interested in:
+- Web Development, DSA, Team Leading, Motivating People, free teaching.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-ojha&label=Profile%20views&color=0e75b6&style=flat" alt="suman-ojha" /> </p>
 
