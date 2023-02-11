@@ -42,7 +42,8 @@ Also interested in:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-ojha&show_icons=true&locale=en" alt="suman-ojha" /></p>
 
-<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-ojha&" alt="suman-ojha" /></p> <div>![Suman's Leetcode stats](https://leetcard.jacoblin.cool/suman099?theme=dark&font=Abel&ext=heatmap)</div></div>
+<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-ojha&" alt="suman-ojha" /></p> 
+  ![Suman's Leetcode stats](https://leetcard.jacoblin.cool/suman099?theme=dark&font=Abel&ext=heatmap)</div>
   
 
 
