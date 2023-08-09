@@ -5,9 +5,9 @@
 <p>Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
 
 Technologies:-
-- HTML5, CSS3, 
-- ReactJS, NodeJS, ExpressJS, MongoDB, 
-- Programming in C, Python, C++, JavaScriptJava.
+- HTML5, CSS3, TailwindCSS, 
+- ReactJS, NodeJS, ExpressJS, MongoDB, Next.js, 
+- Programming in C, Python, C++, JavaScript, Java.
 
 Also interested in:
 - Web Development, DSA, Team Leading, Motivating People, free teaching.</p>
@@ -18,7 +18,7 @@ Also interested in:
 
 - 🔭 I’m currently working on [Sorting Visualizer](https://github.com/Suman-ojha/Sorting-Visualiser)
 
-- 🌱 I’m currently learning **Node.js,React.js,MongoDB**
+- 🌱 I’m currently Working On **Node.js,React.js,MongoDB**
 
 - 💬 Ask me about **DSA**
 
