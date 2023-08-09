@@ -16,7 +16,8 @@ Also interested in:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-ojha" alt="suman-ojha" /></a> </p>
 
-- 🔭 I’m currently working on [Sorting Visualizer](https://github.com/Suman-ojha/Sorting-Visualiser)
+- 🔭 I’m currently working on [YouTube Clone (React.js,RapidApi) ](https://github.com/Suman-ojha/YoutubeClone.git)
+- - 🔭 I’m currently working on MERN stack E-Commerece Project.
 
 - 🌱 I’m currently Working On **Node.js,React.js,MongoDB**
 
