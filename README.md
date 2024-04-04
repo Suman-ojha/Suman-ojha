@@ -1,25 +1,29 @@
 <h1 align="center">Hi 👋, I'm Suman Ojha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<p>I'm pursuing Last Year of B.Tech degree in Computer Science and Engineering from MAKAUT, W.B. I'm a web and software developer and computer programmer with an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking on challenges and love being part of the solution.</p>
+<p>I have passed B.Tech degree in Computer Science and Engineering from MAKAUT, W.B.in 2023.Currently, I'm a Backende developer at Ivan Infotech pvt 
+
+Ltd. I have an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking on challenges and love being part of the solution.</p>
 
 <p>Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
 
 Technologies:-
 - HTML5, CSS3, TailwindCSS, 
-- ReactJS, NodeJS, ExpressJS, MongoDB, Next.js, 
+- ReactJS, NodeJS, ExpressJS, MongoDB, Next.js, Docker,Angular.js
 - Programming in C, Python, C++, JavaScript, Java.
+- AI/ML(CNN , Deep Neural Network , tensorflow..)
 
 Also interested in:
-- Web Development, DSA, Team Leading, Motivating People, free teaching.</p>
+- Web Development, DSA, Team Leading, Motivating People,  teaching.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-ojha&label=Profile%20views&color=0e75b6&style=flat" alt="suman-ojha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-ojha" alt="suman-ojha" /></a> </p>
 
 - 🔭 I’m currently working on [Movie database system (React.js,Redux.js ,Scss , TMDB api data) ](https://github.com/Suman-ojha/Moviex-Show.git)
-- - 🔭 I’m currently working on MERN stack E-Commerece Project.
+- - 🔭 I’m currently working on [HRMLIX](https://demo.hrmlix.com/) a payroll software product(Ivan Infotech).
 
-- 🌱 I’m currently Working On **Node.js,React.js,MongoDB**
+- 🌱 I’m currently Working On **Node.js,React.js,MongoDB,Angular.js**
+ - 🌱 I’m currently Working as Backend Developer at Ivan Infotech pvt Ltd.**
 
 - 💬 Ask me about **DSA**
 
